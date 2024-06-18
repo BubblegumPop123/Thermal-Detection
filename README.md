@@ -47,4 +47,4 @@ The following steps describe the process of detecting persons in the thermal ima
 
 ---
 
-By following this guide, you can set up, run, and evaluate the person detection system for thermal images. This system is applicable in various scenarios such as surveillance, search and rescue, border security, and combat situations, where thermal imaging can help detect persons in low-visibility conditions. The provided dataset ensures you have all the necessary resources to start and effectively work on this project.
+By following this guide, you can set up, run, and evaluate the person detection system for thermal images. This system is applicable in various scenarios such as surveillance, search and rescue, border security, and combat situations, where thermal imaging can help detect persons in low-visibility conditions.
